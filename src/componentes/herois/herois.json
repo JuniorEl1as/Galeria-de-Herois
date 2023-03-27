@@ -1,0 +1,118 @@
+
+[
+    {
+      "nome": "Angela",
+      "imagem": "https://cdn.discordapp.com/attachments/878466225800380477/1088436577220436008/Angela-1.png",
+      "id": "1",
+      "tag": "Mago",
+      "todos": "todos"
+    },
+
+    {
+        "nome": "Arhtur",
+      "imagem": "https://cdn.discordapp.com/attachments/878466225800380477/1088436577803456613/Arthur.png",
+      "id": "2",
+      "tag": "Tank",
+      "todos": "todos"
+    },
+
+    {
+        "nome": "Ata",
+      "imagem": "https://cdn.discordapp.com/attachments/878466225800380477/1088436578277396480/Ata.png",
+      "id": "3",
+      "tag": "Tank",
+      "todos": "todos"
+    },
+
+    {
+        "nome": "Athena",
+      "imagem": "https://cdn.discordapp.com/attachments/878466225800380477/1088436578550030426/Athena.png",
+      "id": "4",
+      "tag": "Lutador",
+      "todos": "todos"
+    },
+
+    {
+        "nome": "Bai Qi",
+      "imagem": "https://cdn.discordapp.com/attachments/878466225800380477/1088436579015594126/Bai-Qui.png",
+      "id": "5",
+      "tag": "Mago",
+      "todos": "todos"
+    },
+
+    {
+        "nome": "Bian Que",
+      "imagem": "https://cdn.discordapp.com/attachments/878466225800380477/1088436579552481310/Bian-Que.png",
+      "id": "6",
+      "tag": "Mago",
+      "todos": "todos"
+    },
+
+    {
+        "nome": "Cai Yan",
+      "imagem": "https://cdn.discordapp.com/attachments/878466225800380477/1088436579757985862/Cai-Yan.png",
+      "id": "7",
+      "tag": "Suporte",
+      "todos": "todos"
+    },
+
+    {
+        "nome": "Cao Cao",
+      "imagem": "https://cdn.discordapp.com/attachments/878466225800380477/1088436580190003270/Cao-Cao.png",
+      "id": "8",
+      "tag": "Lutador",
+      "todos": "todos"
+    },
+
+    {
+        "nome": "Consorte Yu",
+      "imagem": "https://cdn.discordapp.com/attachments/878466225800380477/1088436580634595358/Consorte-Yu.png",
+      "id": "9",
+      "tag": "Atirador",
+      "todos": "todos"
+    },
+
+    {
+        "nome": "Daji",
+      "imagem": "https://cdn.discordapp.com/attachments/878466225800380477/1088436581049847858/Daji.png",
+      "id": "10",
+      "tag": "Mago",
+      "todos": "todos"
+    },
+    {
+        "nome": "Jing",
+      "imagem": "https://cdn.discordapp.com/attachments/878466225800380477/1088498886655627396/Jing.png",
+      "id": "11",
+      "tag": "Assassino",
+      "todos": "todos"
+    },
+    {
+        "nome": "Han-Xin",
+      "imagem": "https://cdn.discordapp.com/attachments/878466225800380477/1088498886282317975/Han-Xin.png",
+      "id": "12",
+      "tag": "Assassino",
+      "todos": "todos"
+    },
+    {
+        "nome": "Di-Renjie",
+      "imagem": "https://cdn.discordapp.com/attachments/878466225800380477/1088498885879677068/Di-Renjie.png",
+      "id": "13",
+      "tag": "Atirador",
+      "todos": "todos"
+    },
+    {
+        "nome": "Diaochan",
+      "imagem": "https://cdn.discordapp.com/attachments/878466225800380477/1088498885628006470/Diaochan.png",
+      "id": "14",
+      "tag": "Assassino",
+      "todos": "todos"
+    },
+    {
+        "nome": "Dian-Wei",
+      "imagem": "https://cdn.discordapp.com/attachments/878466225800380477/1088498885036626030/Dian-Wei.png",
+      "id": "15",
+      "tag": "Lutador",
+      "todos": "todos"
+    }
+  ]
+  

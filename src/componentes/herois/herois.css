@@ -1,0 +1,30 @@
+.container-Heroi {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: #ffffff;
+}    
+
+.card-Heroi {
+    width: 25vw;
+    margin: 10px;
+   
+    display: flex;
+    flex-direction: column;
+    align-items: center;    
+
+    background-color: #ee0b0bd8;
+    border-radius: 10px;
+
+    color: #FFF;
+}
+
+.imagem-Heroi {
+    width: 25vw;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+
+.nome-Heroi {
+    margin: 5px;
+}

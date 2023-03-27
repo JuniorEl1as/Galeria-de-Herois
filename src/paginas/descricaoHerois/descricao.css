@@ -1,0 +1,27 @@
+.container-Descricao {
+    margin: 20px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.banner {
+    width: 80vw;
+}
+
+.nome-heroi {
+    margin: 20px 0;
+}
+
+.skills {
+    width: 80vw;
+}
+
+.titulo-bio {
+    margin: 20px 0;
+}
+
+.bio {
+    width: 80vw;
+    margin: 20px 0;
+}

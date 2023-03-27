@@ -1,0 +1,34 @@
+
+[
+  {
+    "nome": "Angela",
+    "imagem": "https://cdn.discordapp.com/attachments/878466225800380477/1088809566063558697/Skin-Angela.jpg",
+    "id": "1",
+    "tag": "Mago",
+    "todos": "todos",
+    "bio": "Quando a misteriosa maga Merlyn se prendeu numa bolha depois de um feitiço mal sucedido, ela se viu obrigada a ocupar o Quando a misteriosa maga Merlyn se prendeu numa bolha depois de um feitiço mal sucedido, ela se viu obrigada a ocupar o corpo de Angela, que por acaso passava ali por perto, para conseguir escapar.",
+    "skills": "https://cdn.discordapp.com/attachments/878466225800380477/1088809565778350091/ANGELA-HABILIDADES-1.png"  
+  },
+  {
+    "nome": "Arhtur",
+    "imagem": "https://cdn.discordapp.com/attachments/878466225800380477/1089904572065136691/166-bigskin-1.jpg",
+    "banner": "https://cdn.discordapp.com/attachments/878466225800380477/1088809566063558697/Skin-Angela.jpg",
+    "id": "2",
+    "tag": "Tank",
+    "todos": "todos",
+    "bio": "Quando o templo dos Cavaleiros da Távola Redonda estava sob ataque, o jovem viajante Arthur sacou a Excalibur – a espada na pedra – e derrotou os invasores. Desde aquele dia, ele foi aclamado como Rei Arthur.",
+    "skills": "https://cdn.discordapp.com/attachments/878466225800380477/1089904255688786040/ARTHUR-HABILIDADES.png"  
+  },
+  {
+    "nome": "Ata",
+    "imagem": "https://cdn.discordapp.com/attachments/878466225800380477/1089905014614540338/ATA.webp",
+    "banner": "https://cdn.discordapp.com/attachments/878466225800380477/1088809566063558697/Skin-Angela.jpg",
+    "id": "3",
+    "tag": "Tank",
+    "todos": "todos",
+    "bio": "O órfão Ata passou a maior parte da juventude trabalhando como estivador e sonhando em viajar pelo alto mar. Seu desejo se tornou realidade quando, por acaso, ele se deparou com um navio pirata e começou uma nova vida entrando para sua tripulação.",
+    "skills": "https://cdn.discordapp.com/attachments/878466225800380477/1089905014945886258/ATA-HABILIDADES.png"  
+  }
+    
+]
+  

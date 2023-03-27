@@ -1,0 +1,16 @@
+.container-Seletor {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    margin: 20px 0;
+
+}
+
+.container-Seletor select {
+    width: 100px;
+    height: 30px;
+    background-color: #ee0b0bd8;
+    border-radius: 10px;
+    margin: 0 8px;
+}
