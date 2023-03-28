@@ -24,7 +24,6 @@ export default function PaginaHerois() {
 
   const [descricao, setDescricao] = useState([]);
   
-
   const filtrando = (nome) => {
     const temporario = descricaoHerois.filter(heroi => heroi.nome === nome);
    
