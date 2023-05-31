@@ -4,7 +4,12 @@
     flex-direction: column;
     align-items: center;
 }
-
+.botao-voltar{
+    display: flex;
+    justify-content: flex-start;
+    margin: 10px 5px;
+    
+}
 .banner {
     width: 80vw;
 }

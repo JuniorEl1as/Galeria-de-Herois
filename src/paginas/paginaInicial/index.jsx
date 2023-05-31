@@ -23,12 +23,21 @@ export default function PaginaHerois() {
   }
 
   const [descricao, setDescricao] = useState([]);
-  
+  let dados = false;
+
   const filtrando = (nome) => {
     const temporario = descricaoHerois.filter(heroi => heroi.nome === nome);
    
     setDescricao(temporario);
+    dados = true;
+    exibir();
   };
+
+  function exibir(){
+    if(dados){
+      <DescricaoHerois descricao={descricao}/>
+    }
+  }
 
   return (
     <div className="PaginaHerois">
@@ -42,7 +51,6 @@ export default function PaginaHerois() {
         renderHeroi={renderHeroi}
         filtrando={filtrando}
       />
-      <DescricaoHerois descricao={descricao}/>
     </div>
   );
 }
